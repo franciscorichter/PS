@@ -26,6 +26,12 @@ export default function RootLayout({
             <li>
               <Link href="/chapter1" className="text-blue-600 hover:underline">Chapter 1</Link>
             </li>
+            <li>
+              <Link href="/chapter2" className="text-blue-600 hover:underline">Chapter 2</Link>
+            </li>
+            <li>
+              <Link href="/chapter3" className="text-blue-600 hover:underline">Chapter 3</Link>
+            </li>
             {/* Add links for other chapters here later */}
           </ul>
         </nav>
